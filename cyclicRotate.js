@@ -19,7 +19,7 @@ function rotateByOne(a, k, temp) {
 }
 
 if (numsToShit >= a.length) {
-    console.log(`numsToShift should be less then ${a.length - 1}`);
+    console.log(`numsToShift should be less then ${a.length}`);
 } else {
     let temp = [];
     for (let j = 0; j < numsToShit; j++) {
