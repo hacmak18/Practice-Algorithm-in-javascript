@@ -12,3 +12,4 @@ order in which i wrote programs.
 7.Cyclically rotate an array by one  - cyclicRotate.js
 8.Find largest sum contiguous subarray - largestSubArraySum.js (imp)
 9.Minimize the heights II - minimizeHeight.js
+10.Minimum number of jumps - minNumJumps.js
