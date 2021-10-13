@@ -3,7 +3,7 @@ practising algorithms with javascript
 
 order in which i wrote programs.
 
-<p> <a href="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">1.Reverse the array</a> - reverseArray.js </p>
+<p> <a href="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">1.Reverse the array</a> - <a href="/reverseArray.js">reverseArray.js</a> </p>
 <p> <a href="https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"> 2.Maximum and minimum of an array using minimum number of comparisons </a> - maxMinArray.js </p>
 <p> <a href="https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"> 3.Kth smallest element </a>- nthLargest.js </p>
 <p> <a href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0"> 4.Dutch National Flag Problem </a>- dnfp.js </p>
