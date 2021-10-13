@@ -13,3 +13,5 @@ order in which i wrote programs.
 8.Find largest sum contiguous subarray - largestSubArraySum.js (imp)
 9.Minimize the heights II - minimizeHeight.js
 10.Minimum number of jumps - minNumJumps.js
+11.Find the Duplicate Number - duplicateNumber.js
+12.Merge two sorted arrays with O(1) extra space - mergeArray.js
